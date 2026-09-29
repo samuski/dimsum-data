@@ -1,4 +1,4 @@
-#!/usr/bin/env python2.7
+#!/usr/bin/env python3
 #coding=utf-8
 """
 Measures MWE and noun/verb supersense labeling performance for the DiMSUM 2016 shared task
